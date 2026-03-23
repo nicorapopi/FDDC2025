@@ -1,2 +1,7 @@
-![alt text](../images/image.png)
 ![alt text](../images/image1.png)
+![alt text](../images/image.png)
+
+ลากสายจาก ขา 5 IC7474 ตัวที่ 1 เข้า ขา A 
+ลากสายจาก ขา 9 IC7474 ตัวที่ 1 เข้า ขา B
+ลากสายจาก ขา 5 IC7474 ตัวที่ 2 ไป ขา C
+ลากสายจาก ขา D ลง GND
